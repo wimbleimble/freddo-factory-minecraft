@@ -1,0 +1,19 @@
+[15:41:09] [Server thread/INFO]: Stopping the server
+[15:41:09] [Server thread/INFO]: Stopping server
+[15:41:09] [Server thread/INFO]: [DeadChest] Disabling DeadChest v4.2.0
+[15:41:09] [Server thread/INFO]: [TreeFeller] Disabling TreeFeller v1.13.5
+[15:41:09] [Server thread/INFO]: [TreeFeller] TreeFeller has been disabled! (Version 1.13.5) by ThizThizzyDizzy
+[15:41:09] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.0+a51fa43
+[15:41:09] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[15:41:09] [Server thread/INFO]: [Sleepy] Disabling Sleepy v1.3b
+[15:41:09] [Server thread/INFO]: Saving players
+[15:41:09] [Server thread/INFO]: Saving worlds
+[15:41:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Freddo Factory]'/minecraft:overworld
+[15:41:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (Freddo Factory): All chunks are saved
+[15:41:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Freddo Factory_nether]'/minecraft:the_nether
+[15:41:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:41:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Freddo Factory_the_end]'/minecraft:the_end
+[15:41:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:41:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (Freddo Factory): All chunks are saved
+[15:41:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:41:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

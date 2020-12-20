@@ -1,0 +1,5 @@
+server.basics:
+        description: Default permissions.
+        default: true
+        children:
+                deadchest.keepInventory: true
