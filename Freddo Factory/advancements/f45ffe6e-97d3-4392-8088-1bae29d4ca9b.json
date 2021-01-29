@@ -1086,6 +1086,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2021-01-25 14:35:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-10-28 14:55:56 +0000"
@@ -1233,6 +1239,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2020-12-09 10:49:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2021-01-25 14:34:11 +0000"
     },
     "done": true
   },
@@ -2129,6 +2141,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2021-01-25 14:34:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_terracotta": {
     "criteria": {
       "has_terracotta": "2020-11-28 02:38:02 +0000"
@@ -2222,6 +2240,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2020-10-29 11:36:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2021-01-25 14:34:11 +0000"
     },
     "done": true
   },
@@ -2448,6 +2472,7 @@
       "suspicious_stew": "2020-11-09 16:01:55 +0000",
       "melon_slice": "2020-11-03 13:48:49 +0000",
       "golden_carrot": "2020-11-25 12:58:41 +0000",
+      "cooked_rabbit": "2021-01-25 14:34:27 +0000",
       "cooked_chicken": "2020-10-27 12:47:01 +0000",
       "mushroom_stew": "2020-10-27 15:40:05 +0000",
       "rabbit_stew": "2020-11-30 11:32:21 +0000",
@@ -3023,6 +3048,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2021-01-25 14:26:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-10-27 13:10:01 +0000"
@@ -3050,6 +3081,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2020-10-27 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2021-01-25 14:26:40 +0000"
     },
     "done": true
   },
